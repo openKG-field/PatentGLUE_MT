@@ -1,0 +1,5 @@
+Train thte simplenmt model using the bilingual patent data in PatentGLUE
+
+The service is configured in a linux server, and you can try it in browser:
+   http://180.76.156.218:8090/zh_en/***/
+  Note: *** can be Chinese words (sentences) or English words (sentences)
